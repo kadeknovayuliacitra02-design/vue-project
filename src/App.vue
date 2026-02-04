@@ -4,7 +4,7 @@
      <RouterView></RouterView>
     <WebFooter />
   </div>
-</template>
+</template> 
 
 <script setup>
 import WebHeader from './components/Header/WebHeader.vue';
